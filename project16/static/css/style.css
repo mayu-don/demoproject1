@@ -1,0 +1,21 @@
+.container
+{
+	margin-top: 100px;
+}
+body
+{
+	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQadyQSRO4JqWZnv6AkcUMdIM9d-kXe-odlqEQ8FTSV--QGZmzU);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+ul
+{
+	font-size: 25px;
+}
+img
+{
+	width: 20%
+	height:250px;
+	border: 20px solid orange ;
+}
